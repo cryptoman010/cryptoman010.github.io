@@ -1,0 +1,1612 @@
+# Translation of Themes - Cenote in Russian
+# This file is distributed under the same license as the Themes - Cenote package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-13 10:20:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Cenote\n"
+
+#. Description of the plugin/theme
+msgid "Cenote is beautifully designed clean WordPress blog theme. Easy to setup and has a nice set of features that make your site stand out. It is suitable for personal, fashion, food, travel, business, professional, niche and any kind of blogging sites. Comes with various demos for various purposes, which you can easily import with the help of ThemeGrill Demo Importer plugin."
+msgstr "Cenote это тема с отлиным и простым дизайном для блога на WordPress. Проста в установке с хорошим набором возможностей, которые сделают ваш сайт выдающимся. Хорошо подойдет для персонального, модного, связаного с питанием, путешествиями, бизнесом, професионального или нишевого сайтадля блогинга. Поставляется с различными демо данными под различные нужды, которые вы можете просто импортировать с помощью плагина ThemeGrill Demo Importer."
+
+#: inc/customizer/options/options-archive.php:52
+#: inc/customizer/options/options-single.php:41
+msgid "Makes the first letter of the content bigger"
+msgstr "Делает первую букву содержимого большой"
+
+#: inc/customizer/options/options-header.php:75
+msgid "Email Address"
+msgstr "Email адрес"
+
+#: inc/customizer/options/options-header.php:50
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: inc/customizer/options/options-header.php:33
+msgid "Contact Info"
+msgstr "Контактная информация"
+
+#: inc/customizer/kirki-customizer.php:147
+#: inc/customizer/options/options-archive.php:79
+#: inc/customizer/options/options-page.php:26
+#: inc/customizer/options/options-single.php:30
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3589
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3587
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3586
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3584
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки начинается. Этот процесс может занять некоторое время на некоторых хостах, поэтому, пожалуйста, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3581
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина  %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3579
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3578
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3586
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3578
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3586
+msgid "Show Details"
+msgstr "Показать детали"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3578
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и успешно активирован."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3576
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Запускается процесс установки и активации. Этот процесс может занять некоторое время на некоторых хостах, поэтому, пожалуйста, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3570
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3567
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3222
+msgid "Plugin activation failed."
+msgstr "Не удалось активировать плагин."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2992
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет плагинов, доступных для активации"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2966
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбраны плагины для активации. Никаких действий не принимается."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2860
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет плагинов, доступных для обновления."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2858
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет плагинов, доступных для установки."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2817
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбраны плагины для обновления. Никаких действий не принимается."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2815
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбраны плагины для установки. Никаких действий не принимается."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2781
+msgid "Update"
+msgstr "Обновить"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2664
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2609
+msgid "Status"
+msgstr "Статус"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Version"
+msgstr "Версия"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2604
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Source"
+msgstr "Источник"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2602
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2588
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2565
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Minimum required version:"
+msgstr "Минимальная требуемая версия:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2545
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2537
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестно"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2383
+msgid "Update recommended"
+msgstr "Рекомендуется обновление "
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2380
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2377
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2365
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2344
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2341
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#. translators: %s: version number
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2025
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1138
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3006
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:950
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленных плагинов состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:944
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:950
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Обратитесь к поставщику плагинов и попросите их упаковать их плагин в соответствии с рекомендациями WordPress."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:531
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:530
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин должен быть обновлен, чтобы быть совместимым с вашей темой."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:117
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к администратору этого сайта."
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:114
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и успешно активированы. %1$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:389
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3010
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:108
+msgid "The following plugin was activated successfully:"
+msgstr "Следующий плагин был успешно активирован:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3223
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:107
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:54
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API-интерфейсом плагина."
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:53
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:331
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:51
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:329
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:49
+msgid "Install Plugins"
+msgstr "Установка плагинов"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:48
+msgid "Install Required Plugins"
+msgstr "Установка необходимых плагинов"
+
+#: inc/customizer/options/options-layout.php:13
+msgid "Site Layout"
+msgstr "Макет сайта"
+
+#: inc/customizer/kirki-customizer.php:57
+msgid "Header"
+msgstr "Заголовок"
+
+#: template-parts/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: inc/customizer/kirki-customizer.php:120
+#: template-parts/pagination/pagination.php:27
+msgid "Page"
+msgstr "Страница"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:122
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/compatibility/class-breadcrumb-trail.php:268
+msgid "Archives"
+msgstr "Архивы"
+
+#: inc/customizer/options/options-header.php:32
+msgid "Menu"
+msgstr "Меню"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2784
+msgid "Activate"
+msgstr "Активировать"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2670
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2659
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2439
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:381
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:101
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:376
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:96
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:371
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:91
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2775
+msgid "Install"
+msgstr "Установить"
+
+#: inc/customizer/options/options-archive.php:33
+msgid "2"
+msgstr "2"
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: inc/kirki/controls/php/class-kirki-control-typography.php:155
+#: inc/kirki/field/class-kirki-field-spacing.php:36
+msgid "Right"
+msgstr "Справа"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: inc/kirki/controls/php/class-kirki-control-typography.php:143
+#: inc/kirki/field/class-kirki-field-spacing.php:35
+msgid "Left"
+msgstr "Слева"
+
+#: template-parts/related/related-post.php:35
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+#: inc/customizer/options/options-social.php:53
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer/options/options-social.php:47
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/options/options-social.php:44
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/options/options-social.php:50
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/options/options-social.php:42
+msgid "Facebook"
+msgstr "Facebook"
+
+#: template-parts/content-page.php:32
+msgid "Pages:"
+msgstr "Страницы:"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3572
+msgid "The installation of %1$s failed."
+msgstr "Не удалось выполнить установку %1$s."
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2451
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Активировать <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2447
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступно обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступно обновлений <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2443
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2369
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2324
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Required"
+msgstr "Обязательное"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:116
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Есть один или более необходимых или рекомендуемых для установки, обновления или активации плагинов."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:115
+msgid "Dismiss this notice"
+msgstr "Игнорировать это уведомление"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:112
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Для этой темы требуется более высокая версия %s. Пожалуйста, обновите плагин."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:391
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:110
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Никакие действия не применялись. Плагин %1$s был уже активирован."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:836
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2588
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3649
+msgid "Return to the Dashboard"
+msgstr "Вернуться в Консоль"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:106
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться в Установщик необходимых плагинов"
+
+#: inc/meta-boxes.php:35
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/meta-boxes.php:36
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: inc/customizer/options/options-post-ribbon.php:28
+#: inc/customizer/options/options-post-ribbon.php:53
+#: inc/customizer/options/options-post-slider.php:52
+#: inc/customizer/options/options-single.php:26
+msgid "Categories"
+msgstr "Категории"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2742
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2371
+msgid "Active"
+msgstr "Активировать"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2347
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:944
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Архив плагина не содержит папки нужным именем и переименование не сработало."
+
+#. Template Name of the plugin/theme
+msgid "Cover Style"
+msgstr "Стиль обложки"
+
+#: template-parts/pagination/pagination.php:29
+msgid "Previous"
+msgstr "Предыдущая"
+
+#: template-parts/pagination/pagination.php:28
+msgid "Next"
+msgstr "Следующая"
+
+#: template-parts/pagination/pagination.php:17
+msgid "Posts Navigation"
+msgstr "Навигация по записям"
+
+#: template-parts/footer/search-form.php:14
+msgid "Begin typing your search term above and press enter to search. Press ESC to cancel."
+msgstr "Начните вводить, то что вы ищите выше и нажмите кнопку Enter для поиска. Нажмите кнопку ESC для отмены."
+
+#. translators: 1: Current Year, 2: Blog Name 3: Theme Developer 4: WordPress.
+#: template-parts/footer/footer-info.php:12
+msgid "Copyright %1$s %2$s All Right Reserved. Theme By %3$s. Proudly powered by %4$s"
+msgstr "Авторское право %1$s %2$s Все права защищены. Тема от %3$s. Сайт работает на %4$s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:52
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-audio.php:35 template-parts/content-gallery.php:53
+#: template-parts/content-link.php:28 template-parts/content-quote.php:29
+#: template-parts/content-search.php:34 template-parts/content-video.php:35
+#: template-parts/content.php:68
+msgid "Read More"
+msgstr "Читать далее"
+
+#: template-parts/author/author-box.php:40
+msgid "Website"
+msgstr "Сайт"
+
+#: single.php:23 template-parts/content-single-cover.php:54
+msgid "Next Article"
+msgstr "Следующая статья"
+
+#: single.php:22 template-parts/content-single-cover.php:53
+msgid "Previous Article"
+msgstr "Предыдущая статья"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:229
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d элемент"
+msgstr[1] "%d элемента"
+msgstr[2] "%d элементов"
+
+#: inc/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr "Перейти в корзину"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:133
+msgid "Display post date?"
+msgstr "Отображать дату записи?"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:127
+msgid "Number of posts to show:"
+msgstr "Количество записей для показа:"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:75
+msgid "(no title)"
+msgstr "(нет заголовка)"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:40
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:24
+msgid "TG: Recent Posts"
+msgstr "TG: Последние записи"
+
+#: inc/tgm-plugin-activation/tgmpa-cenote.php:22
+msgid "ThemeGrill Demo Importer"
+msgstr "ThemeGrill Demo Importer"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:97 template-parts/content-page.php:47
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактировать <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:80
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить коментарий<span class=\"screen-reader-text\"> к %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:70
+msgid "Tagged: %1$s"
+msgstr "Отмечено: %1$s"
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:64
+msgid "Category: %1$s"
+msgstr "Рубрика: %1$s"
+
+#: inc/template-functions.php:91
+msgid "Back To Top"
+msgstr "Вернуться наверх"
+
+#: inc/meta-boxes.php:34
+msgid "Full Width"
+msgstr "На всю ширину"
+
+#: inc/meta-boxes.php:12
+msgid "Choose Layout"
+msgstr "Выберите макет"
+
+#: inc/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Важное уведомление об обновлении:"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:232
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ультра жирный 900 курсив"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:230
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:231
+msgid "Ultra-Bold 900"
+msgstr "Ультра жирный 900"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:229
+msgid "Extra-Bold 800 Italic"
+msgstr "Экстра жирный 800 курсив"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:227
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:228
+msgid "Extra-Bold 800"
+msgstr "Экстра жирный 800"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:226
+msgid "Bold 700 Italic"
+msgstr "Жирный 700 курсив"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:225
+msgid "Bold 700"
+msgstr "Жирный 700"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:224
+msgid "Semi-Bold 600 Italic"
+msgstr "Полужирный 600 курсив"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:222
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:223
+msgid "Semi-Bold 600"
+msgstr "Полужирный 600"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:221
+msgid "Medium 500 Italic"
+msgstr "Средний 500 курсив"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Medium 500"
+msgstr "Средний 500"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Normal 400 Italic"
+msgstr "Обычный 400 курсив"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:217
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:218
+msgid "Normal 400"
+msgstr "Обычный 400"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Book 300 Italic"
+msgstr "Книжный 300 курсив"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:215
+msgid "Book 300"
+msgstr "Книжный 300"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Light 200 Italic"
+msgstr "Легкий 200 курсив"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Light 200"
+msgstr "Легкий 200"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Ultra-Light 100 Italic"
+msgstr "Ультралегкий 100 курсив"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Ultra-Light 100"
+msgstr "Ультралегкий 100"
+
+#. translators: The title.
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:62
+msgid "Customizing &#9656; %s"
+msgstr "Настройка &#9656; %s"
+
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:59
+msgid "Customizing"
+msgstr "Настройка "
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is
+#. buttonset/image.
+#: inc/kirki/field/class-kirki-field-radio.php:37
+msgid "Error in field %1$s. The \"mode\" argument has been deprecated since Kirki v0.8. Use the \"radio-%2$s\" type instead."
+msgstr "Ошибка в поле %1$s. Аргумент \"режим\" устарел со времен Kirki v0.8. Взамен используйте \"radio-%2$s\"."
+
+#: inc/kirki/field/class-kirki-field-color.php:55
+msgid "Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]\" instead."
+msgstr "Для управления цветом вместо \"alpha\", используйте \"choices[alpha]\"."
+
+#: inc/kirki/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr "%1$s или %2$s"
+
+#: inc/kirki/core/class-kirki.php:228
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Поля Kirki не должны добавляться в customize_register. Пожалуйста, добавляйте их прямо или к элементу."
+
+#: inc/kirki/core/class-kirki-init.php:280
+msgid "We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::get_variables() instead."
+msgstr "Мы обнаружили, что вы используете Kirki_Init::get_variables(). Пожалуйста, используйте вместо него Kirki_Util::get_variables()."
+
+#. translators: The field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:538
+#: inc/kirki/core/class-kirki-field.php:548
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "\"output\" неправильный формат для поля field %s. Аргумент \"output\" должен быть определен как массив массивов."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:409
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" неправильная запись поля %s"
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:391
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr "Найдена опечатка в поле %s - \"theme_mods\" против \"theme_mod\""
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: inc/kirki/core/class-kirki-field.php:241
+#: inc/kirki/core/class-kirki-field.php:251
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Конфигурация на определена для поля %1$s - Ознакомьтесь с %2$s для детального понимания, как правильно добавлять поля."
+
+#. translators: %s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:232
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Найдена опечатка в поле %s - настройка вместо настроек."
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:209
+msgid "Margin Bottom"
+msgstr "Внешний отступ снизу"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:201
+msgid "Margin Top"
+msgstr "Внешний отступ сверху"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:191
+msgid "Line-Through"
+msgstr "Перечеркнутое"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:190
+msgid "Overline"
+msgstr "Линия сверху"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Underline"
+msgstr "Подчеркнутое"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:186
+msgid "Text Decoration"
+msgstr "Оформление текста"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:177
+#: inc/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "Initial"
+msgstr "Исходный"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:176
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:175
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:174
+msgid "Capitalize"
+msgstr "Заглавные"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:173
+#: inc/kirki/controls/php/class-kirki-control-typography.php:188
+msgid "None"
+msgstr "Ничего"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:171
+msgid "Text Transform"
+msgstr "Преобразование текста"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:161
+msgid "Justify"
+msgstr "Выравнивание по ширине"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:137
+#: inc/kirki/controls/php/class-kirki-control-typography.php:178
+#: inc/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Inherit"
+msgstr "Наследуемый"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:132
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:91
+msgid "Variant"
+msgstr "Вариант"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:85
+msgid "Backup Font"
+msgstr "Резервный шрифт"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:81
+#: inc/kirki/controls/php/class-kirki-control-typography.php:86
+msgid "Select Font Family"
+msgstr "Выберите семейство шрифта"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:80
+msgid "Font Family"
+msgstr "Семейство шрифта"
+
+#: inc/kirki/controls/php/class-kirki-control-switch.php:56
+#: inc/kirki/field/class-kirki-field-switch.php:43
+msgid "Off"
+msgstr "Выкл."
+
+#: inc/kirki/controls/php/class-kirki-control-switch.php:52
+#: inc/kirki/field/class-kirki-field-switch.php:42
+msgid "On"
+msgstr "Вкл."
+
+#: inc/kirki/controls/php/class-kirki-control-slider.php:65
+msgid "Reset"
+msgstr "Сбросить"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:409
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:411
+msgid "Change File"
+msgstr "Изменить файл"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:409
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "Add File"
+msgstr "Добавить файл"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:377
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:379
+msgid "Change Image"
+msgstr "Изменить изображение"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:377
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:366
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:371
+msgid "No Image Selected"
+msgstr "Изображение не выбрано"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:349
+msgid "Hex Value"
+msgstr "HEX-код"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:220
+msgid "Limit: %s rows"
+msgstr "Ограничение: %s рядков"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:114
+msgid "Select a Page"
+msgstr "Выберите страницу"
+
+#. translators: %s represents the label of the row.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:79
+msgid "Add new %s"
+msgstr "Добавить новый %s"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:70
+msgid "row"
+msgstr "ряд"
+
+#: inc/kirki/controls/php/class-kirki-control-image.php:55
+#: inc/kirki/field/class-kirki-field-image.php:47
+msgid "Choose image"
+msgstr "Выберите изображение"
+
+#: inc/kirki/controls/php/class-kirki-control-image.php:53
+#: inc/kirki/field/class-kirki-field-image.php:45
+msgid "No image selected"
+msgstr "Изображение не выбрано"
+
+#: inc/kirki/controls/php/class-kirki-control-image.php:50
+#: inc/kirki/field/class-kirki-field-image.php:42
+msgid "Change image"
+msgstr "Измените изображение"
+
+#: inc/kirki/controls/php/class-kirki-control-image.php:49
+#: inc/kirki/controls/php/class-kirki-control-image.php:54
+#: inc/kirki/field/class-kirki-field-image.php:41
+#: inc/kirki/field/class-kirki-field-image.php:46
+msgid "Select image"
+msgstr "Выберите изображение"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Width"
+msgstr "Ширина"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Spacing"
+msgstr "Отступ"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:136
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:139
+msgid "Height"
+msgstr "Высота"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Size"
+msgstr "Размер"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:134
+#: inc/kirki/controls/php/class-kirki-control-typography.php:149
+msgid "Center"
+msgstr "Центр"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: inc/kirki/field/class-kirki-field-spacing.php:34
+msgid "Bottom"
+msgstr "Низ"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: inc/kirki/field/class-kirki-field-spacing.php:33
+msgid "Top"
+msgstr "Верх"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: inc/kirki/controls/php/class-kirki-control-typography.php:124
+msgid "Word Spacing"
+msgstr "Интервал между словами"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: inc/kirki/controls/php/class-kirki-control-typography.php:116
+msgid "Letter Spacing"
+msgstr "Интервал между буквами"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:127
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:126
+#: inc/kirki/controls/php/class-kirki-control-typography.php:108
+msgid "Line Height"
+msgstr "Высота строки"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:125
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:124
+#: inc/kirki/controls/php/class-kirki-control-typography.php:100
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/kirki/controls/php/class-kirki-control-dimension.php:39
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:140
+msgid "Invalid Value"
+msgstr "Неправильное значение"
+
+#: inc/kirki/controls/php/class-kirki-control-code.php:37
+msgid "Please update your WordPress installation to a version newer than 4.9 to access the code control."
+msgstr "Обновите WordPress до версии более чем 4.9, чтобы получить доступ к управлению кодом."
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:118
+msgid "Default CSS Values"
+msgstr "Значение CSS по-умолчанию"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:117
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:116
+msgid "Standard Fonts"
+msgstr "Стандартные шрифты"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:114
+#: inc/kirki/controls/php/class-kirki-control-image.php:51
+#: inc/kirki/field/class-kirki-field-image.php:43 inc/meta-boxes.php:37
+msgid "Default"
+msgstr "По-умолчанию"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "Зафиксировать"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "Вложение фона"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr "Автоматически"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "Содержать"
+
+#: functions.php:132
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:55
+msgid "Header Top"
+msgstr "Верхний колонтитул"
+
+#: functions.php:54
+msgid "Primary"
+msgstr "Основной"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s коментария &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s коментариев &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#: 404.php:22
+msgid "Go back to Home"
+msgstr "Вернуться на главную"
+
+#: 404.php:22
+msgid "Try searching or "
+msgstr "Попробуйте поиск или"
+
+#: 404.php:18
+msgid "Sorry, but nothing exists here."
+msgstr "Извините, но здесь ничего нет."
+
+#: inc/compatibility/class-breadcrumb-trail.php:757
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/compatibility/class-breadcrumb-trail.php:739
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/compatibility/class-breadcrumb-trail.php:721
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/compatibility/class-breadcrumb-trail.php:278
+msgid "Week %s"
+msgstr "Неделя %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/compatibility/class-breadcrumb-trail.php:276
+msgid "Minute %s"
+msgstr "Минута %s"
+
+#. Translators: %s is the page number.
+#: inc/compatibility/class-breadcrumb-trail.php:274
+msgid "Comment Page %s"
+msgstr "Страница комментариев %s"
+
+#. Translators: %s is the page number.
+#: inc/compatibility/class-breadcrumb-trail.php:272
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: %s is the search query.
+#: inc/compatibility/class-breadcrumb-trail.php:270
+msgid "Search results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/compatibility/class-breadcrumb-trail.php:267
+msgid "404 Not Found"
+msgstr "404 не найдено"
+
+#: inc/compatibility/class-breadcrumb-trail.php:266
+msgid "Home"
+msgstr "Главная"
+
+#: inc/compatibility/class-breadcrumb-trail.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#: inc/compatibility/class-breadcrumb-trail.php:264
+msgid "Browse:"
+msgstr "Обзор:"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:174
+msgid "Add widgets here to show on footer 4."
+msgstr "Добавьте сюда виджеты для отображения на 4-ом нижнем колонтитуле."
+
+#: functions.php:172
+msgid "Footer 4"
+msgstr "Нижний колонтитул 4"
+
+#: functions.php:164
+msgid "Add widgets here to show on footer 3."
+msgstr "Добавьте сюда виджеты для отображения на 3-ем нижнем колонтитуле."
+
+#: functions.php:154
+msgid "Add widgets here to show on footer 2."
+msgstr "Добавьте сюда виджеты для отображения на 2-ом нижнем колонтитуле."
+
+#: functions.php:144
+msgid "Add widgets here to show on footer 1."
+msgstr "Добавьте сюда виджеты для отображения на 1-ом нижнем колонтитуле."
+
+#: functions.php:162
+msgid "Footer 3"
+msgstr "Нижний колонтитул 3"
+
+#: functions.php:152
+msgid "Footer 2"
+msgstr "Нижний колонтитул 2"
+
+#: functions.php:142
+msgid "Footer 1"
+msgstr "Нижний колонтитул 1"
+
+#: functions.php:134
+msgid "Add widgets here."
+msgstr "Добавьте сюда виджеты."
+
+#: inc/customizer/options/options-archive.php:13
+msgid "Archive/Blog Style"
+msgstr "Стиль Архива/Блога"
+
+#: inc/customizer/kirki-customizer.php:129
+msgid "Single Post"
+msgstr "Одиночная запись"
+
+#: inc/customizer/kirki-customizer.php:111
+msgid "Archive/Blog"
+msgstr "Архив/Блог"
+
+#: inc/customizer/kirki-customizer.php:102
+msgid "Typography"
+msgstr "Оформление"
+
+#: inc/customizer/kirki-customizer.php:93
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/customizer/kirki-customizer.php:84
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#: inc/customizer/kirki-customizer.php:66
+#: inc/kirki/controls/php/class-kirki-control-typography.php:217
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/customizer/kirki-customizer.php:48
+msgid "Top Header Bar"
+msgstr "Верхняя панель заголовка"
+
+#: inc/customizer/kirki-customizer.php:39
+msgid "Social"
+msgstr "Соц.сети"
+
+#: inc/customizer/kirki-customizer.php:32
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: inc/compatibility/class-breadcrumb-trail.php:804
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/compatibility/class-breadcrumb-trail.php:776
+#: inc/compatibility/class-breadcrumb-trail.php:1216
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/compatibility/class-breadcrumb-trail.php:775
+#: inc/compatibility/class-breadcrumb-trail.php:843
+#: inc/compatibility/class-breadcrumb-trail.php:1214
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/compatibility/class-breadcrumb-trail.php:774
+#: inc/compatibility/class-breadcrumb-trail.php:803
+#: inc/compatibility/class-breadcrumb-trail.php:842
+#: inc/compatibility/class-breadcrumb-trail.php:869
+#: inc/compatibility/class-breadcrumb-trail.php:1212
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/customizer/options/options-archive.php:34
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/options/options-archive.php:29
+msgid "Post Column"
+msgstr "Столбец записи"
+
+#: inc/customizer/options/options-archive.php:78
+#: inc/customizer/options/options-page.php:25
+#: inc/customizer/options/options-single.php:29
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/customizer/options/options-archive.php:77
+#: inc/customizer/options/options-header-media.php:39
+#: inc/customizer/options/options-page.php:23
+#: inc/customizer/options/options-single.php:27
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customizer/options/options-archive.php:76
+#: inc/customizer/options/options-single.php:28
+msgid "Meta Tags"
+msgstr "Мета-тег"
+
+#: inc/customizer/options/options-archive.php:75
+#: inc/customizer/options/options-page.php:24
+#: inc/customizer/options/options-single.php:25
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: inc/customizer/options/options-archive.php:65
+#: inc/customizer/options/options-header.php:25
+#: inc/customizer/options/options-page.php:14
+#: inc/customizer/options/options-single.php:14
+#: inc/customizer/options/options-social.php:12
+msgid "Drag & Drop items to re-arrange the order"
+msgstr "Перемещайте элементы для изменения очередности"
+
+#: inc/customizer/options/options-archive.php:64
+msgid "Post Content Order"
+msgstr "Порядок содержимого записей"
+
+#: inc/customizer/options/options-archive.php:51
+#: inc/customizer/options/options-single.php:40
+msgid "Enable Drop Cap"
+msgstr "Включить каппу"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "Обложка"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:91
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:123
+msgid "Center Bottom"
+msgstr "По центру внизу"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:90
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Center"
+msgstr "По центру по середине"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:89
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Top"
+msgstr "По центру вверху"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:88
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Right Bottom"
+msgstr "Справа внизу"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:87
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Center"
+msgstr "Справа по центру"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:86
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Top"
+msgstr "Справа сверху"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:85
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Left Bottom"
+msgstr "Слева внизу"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:84
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Center"
+msgstr "Слева поцентру"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:83
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Top"
+msgstr "Слева вверху"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "Положение фона"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "Повторять вертикально"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "Повторять горизонтально"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "Повторять все"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "Повторение фона"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:63
+#: inc/kirki/controls/php/class-kirki-control-base.php:115
+msgid "Select File"
+msgstr "Выберите файл"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:62
+#: inc/kirki/controls/php/class-kirki-control-base.php:113
+#: inc/kirki/controls/php/class-kirki-control-image.php:52
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:376
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:433
+#: inc/kirki/field/class-kirki-field-image.php:44
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:59
+#: inc/kirki/controls/php/class-kirki-control-base.php:112
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:398
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:403
+msgid "No File Selected"
+msgstr "Файл не выбран"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/demo-config.php:29
+msgid "Cenote Fashion"
+msgstr "Cenote Fashion"
+
+#. #-#-#-#-#  cenote.pot (Cenote 1.2.4)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/demo-config.php:25
+msgid "Cenote"
+msgstr "Cenote"
+
+#: inc/customizer/options/options-typography.php:44
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/customizer/options/options-typography.php:13
+msgid "Body"
+msgstr "Тело"
+
+#: inc/customizer/options/options-social.php:58
+msgid "Social Link URL"
+msgstr "Ссылка на соц. сеть"
+
+#: inc/customizer/options/options-social.php:52
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/customizer/options/options-social.php:51
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer/options/options-social.php:49
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer/options/options-social.php:48
+msgid "Quora"
+msgstr "Quora"
+
+#: inc/customizer/options/options-social.php:46
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/customizer/options/options-social.php:45
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: inc/customizer/options/options-social.php:43
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer/options/options-social.php:41
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/customizer/options/options-social.php:40
+msgid "DeviantArt"
+msgstr "Deviantart"
+
+#: inc/customizer/options/options-social.php:39
+msgid "Delicious"
+msgstr "Delicious"
+
+#: inc/customizer/options/options-social.php:38
+msgid "CodePen"
+msgstr "Codepen"
+
+#: inc/customizer/options/options-social.php:37
+msgid "Blogger"
+msgstr "Blogger"
+
+#: inc/customizer/options/options-social.php:36
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/customizer/options/options-social.php:32
+msgid "Social Icon"
+msgstr "Иконка соц. сети"
+
+#: inc/customizer/options/options-social.php:17
+msgid "Social Profile"
+msgstr "Профайл соц. сети"
+
+#: inc/customizer/options/options-social.php:11
+msgid "Add Social Profile"
+msgstr "Добавить профиль соц. сети"
+
+#: inc/customizer/options/options-single.php:63
+msgid "Enable Related Posts"
+msgstr "Включить похожие записи"
+
+#: inc/customizer/options/options-single.php:52
+msgid "Enable Author Box"
+msgstr "Включить блок Автор"
+
+#: inc/customizer/options/options-single.php:13
+msgid "Single Post Content Order"
+msgstr "Порядок содержимого одиночной записи"
+
+#: inc/customizer/options/options-page.php:13
+msgid "Page Content Order"
+msgstr "Порядок содержимого страницы"
+
+#: inc/customizer/options/options-layout.php:28
+msgid "Archive/Blog Layout"
+msgstr "Макет Архива/Блога"
+
+#: inc/customizer/options/options-layout.php:62
+msgid "Page Layout"
+msgstr "Макет Страницы"
+
+#: inc/customizer/options/options-layout.php:45
+msgid "Single Post Layout"
+msgstr "Макет Записи"
+
+#: inc/customizer/options/options-header.php:127
+msgid "Enable Search Icon"
+msgstr "Включить иконку поиска"
+
+#: inc/customizer/options/options-header.php:111
+msgid "Header Layout"
+msgstr "Макет верхнего колонтитула"
+
+#: inc/customizer/options/options-header.php:100
+msgid "Enable Sticky Header"
+msgstr "Включить прилипание верхнего колонтитула"
+
+#: inc/customizer/options/options-header.php:24
+msgid "Header Top Item Order"
+msgstr "Порядок элементов верхнего колонтитула"
+
+#: inc/customizer/options/options-header.php:13
+msgid "Enable Header Top Bar"
+msgstr "Включить верхнюю панель верхнего колонтитула"
+
+#: inc/customizer/options/options-header-media.php:114
+msgid "Button URL"
+msgstr "Ссылка кнопки"
+
+#: inc/customizer/options/options-header-media.php:89
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/customizer/options/options-header-media.php:64
+msgid "Text"
+msgstr "Текст"
+
+#: inc/customizer/options/options-header-media.php:13
+msgid "Enable media info box"
+msgstr "Включить медиа информационного блока"
+
+#: inc/customizer/options/options-footer.php:28
+msgid "Enable Back To Top"
+msgstr "Включить Вернуться наверх"
+
+#: inc/customizer/options/options-footer.php:13
+msgid "Footer Style"
+msgstr "Стиль нижнего колонтитула"
+
+#: inc/customizer/options/options-color.php:13
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: inc/customizer/options/options-breadcrumb.php:13
+msgid "Enable Breadcrumbs"
+msgstr "Включить хлебные крошки"
+
+#: inc/widgets/class-cenote-widget-recent-posts.php:21
+msgid "Shows recent posts with an image"
+msgstr "Показывает последние записи с изображением"
+
+#: inc/customizer/options/options-header-media.php:24
+msgid "Header Media Layout"
+msgstr "Медиа макета верхнего колонтитула."
+
+#: template-parts/author/author-box.php:47
+msgid "Posts created"
+msgstr "Записи созданы"
+
+#. Author of the plugin/theme
+msgid "Themegrill"
+msgstr "Themegrill"
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/cenote/"
+msgstr "https://themegrill.com/themes/cenote/"
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
